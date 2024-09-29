@@ -1,4 +1,4 @@
-# SVM for Object Recognition
+# Smart Glove for Object Recognition
 
 This project is focused on using **Support Vector Machine (SVM)** for object recognition based on sensor data. The project demonstrates how machine learning algorithms, in particular, Principal Component Analysis (PCA) for feature extraction and SVM as a classifier, can be used to recognize objects of different shapes and sizes with high accuracy.
 
@@ -14,23 +14,21 @@ To get a local copy up and running, follow these simple steps.
 
 ### Prerequisites
 
-- Python 3.x
+- Python 3.12
 - Required libraries: 
   - `numpy`
   - `pandas`
   - `scikit-learn`
   - `matplotlib`
   - `scipy`
-
-You can install the required packages using:
-```bash
-pip install numpy pandas scikit-learn matplotlib scipy
+  - `time`
+  - `serial`
 
 
 # Installation
 1. git clone https://github.com/your-username/your-repo-name.git
 2. cd your-repo-name
-3. Run the Jupyter notebooks or Python scripts as needed.
+3. Run the Python scripts as needed.
    
 # Usage
 Import the dataset and apply the SVM model.
@@ -39,14 +37,20 @@ Use the trained model to predict objects based on sensor signals.
 
 
 # Contributing
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+Pei-Song Chee
+Cao Guan
+Kok-Tong Lee
+Eng-Hock Lim
+Chun-Hui Tan
+Jen-Hahn Low
+Kwong-Long Wong
+
 
 # Contact
-Lee Kok Tong
-Email: your-email@example.com
+Ir. Dr. Chee Pei Song
+Email: cheeps@utar.edu.my
 
-Project Link: https://github.com/your-username/your-repo-name
 
 # Acknowledgements
-Feel free to adjust sections based on your specific needs.
+The work described in this paper was supported by a targeted CREST fund (T04C1-20) provided by the Collaborative Research in Engineering, Science and Technology, Malaysia
 
