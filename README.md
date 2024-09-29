@@ -52,6 +52,3 @@ Pei-Song Chee
 Email: cheeps@utar.edu.my
 
 
-# Acknowledgements
-The work described in this paper was supported by a targeted CREST fund (T04C1-20) provided by the Collaborative Research in Engineering, Science and Technology, Malaysia
-
