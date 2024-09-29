@@ -31,23 +31,24 @@ To get a local copy up and running, follow these simple steps.
 3. Run the Python scripts as needed.
    
 # Usage
-Import the dataset and apply the SVM model.
-Train the model with the provided sensor data.
-Use the trained model to predict objects based on sensor signals.
+ - Import the dataset and apply the SVM model.
+ - Train the model with the provided sensor data.
+ - Use the trained model to predict objects based on sensor signals.
 
 
 # Contributing
-Pei-Song Chee
-Cao Guan
-Kok-Tong Lee
-Eng-Hock Lim
-Chun-Hui Tan
-Jen-Hahn Low
-Kwong-Long Wong
+ - Pei-Song Chee
+ - Cao Guan
+ - Kok-Tong Lee
+ - Eng-Hock Lim
+ - Chun-Hui Tan
+ - Jen-Hahn Low
+ - Kwong-Long Wong
 
 
 # Contact
-Ir. Dr. Chee Pei Song
+Pei-Song Chee
+
 Email: cheeps@utar.edu.my
 
 
