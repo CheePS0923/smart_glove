@@ -31,9 +31,23 @@ To get a local copy up and running, follow these simple steps.
 3. Run the Python scripts as needed.
    
 # Usage
- - Import the dataset and apply the SVM model.
- - Train the model with the provided sensor data.
- - Use the trained model to predict objects based on sensor signals.
+ 1. **Prepare the Data**
+   - Ensure that your sensor data is in a CSV format similar to the one used in the project.
+   - Download and import the dataset to appropriate directory
+
+2. **Run the Python Script**
+   - After ensuring the dependencies and data are in place, run the provided Python scripts to preprocess the data, extract features, train the model, and evaluate its performance.
+   - You can visualize the confusion matrix and see the prediction accuracy to understand how well the model is performing.
+  
+3. **Modify Parameters**
+   - If you want to tweak the program (e.g., change the window size for filtering, or adjust SVM parameters), open the script file (e.g., main.py) and adjust the relevant variables:
+
+4. **View and Save Outputs**
+   - The results (confusion matrix, prediction accuracy) will be displayed on the terminal and in graphical windows.
+   - Filtered, normalized data and prediction results can be saved automatically to a CSV file by configuring the file saving paths in the script.
+     
+5. **Test with New Data**
+   - Once the model is trained, you can test it with new sensor data by following the object recognition step outlined above. You can load new sensor data and predict the shape or object type.
 
 
 # Contributing
