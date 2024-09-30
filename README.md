@@ -33,15 +33,16 @@ To get a local copy up and running, follow these simple steps.
    
 # Usage
  1. **Prepare the Data**
+
    - Ensure that your sensor data is in a CSV format similar to the one used in the project.
-   - Download and import the dataset to appropriate directory
+   - Download and import the dataset to appropriate directory.
 
 2. **Run the Python Script**
    - After ensuring the dependencies and data are in place, run the provided Python scripts to preprocess the data, extract features, train the model, and evaluate its performance.
    - You can visualize the confusion matrix and see the prediction accuracy to understand how well the model is performing.
   
 3. **Modify Parameters**
-   - If you want to tweak the program (e.g., change the window size for filtering, or adjust SVM parameters), open the script file (e.g., main.py) and adjust the relevant variables:
+   - If you want to tweak the program (e.g., change the window size for filtering, or adjust SVM parameters), open the script file (e.g., main.py) and adjust the relevant variables.
 
 4. **View and Save Outputs**
    - The results (confusion matrix, prediction accuracy) will be displayed on the terminal and in graphical windows.
