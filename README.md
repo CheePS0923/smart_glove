@@ -33,7 +33,6 @@ To get a local copy up and running, follow these simple steps.
    
 # Usage
  1. **Prepare the Data**
-
    - Ensure that your sensor data is in a CSV format similar to the one used in the project.
    - Download and import the dataset to appropriate directory.
 
